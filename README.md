@@ -1,5 +1,1 @@
-<h3 align="center">Welcome to My GitHub! 👋 Hi there! I'm Dhanaa</h3>
-<h4 align="center">Hi there! I'm Dhanaa</h4>
-
-
-</p>
+![Image](https://github.com/user-attachments/assets/444d6caf-21de-40a4-a5c1-981cbbc1c03c)
